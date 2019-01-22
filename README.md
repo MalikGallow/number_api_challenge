@@ -13,6 +13,7 @@ Technologies used:
     -SASS
     -JS
 
-    Done by:
+
+Done by:
     -Abdul Malik Gallow 2019
 
